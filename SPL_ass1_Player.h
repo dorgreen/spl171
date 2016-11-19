@@ -15,7 +15,7 @@ public:
 };
 
 class PlayerType1 : public Player {  //For strategy 1
-//...
+//still a comment
 };
 
 class PlayerType2 : public Player {  //For strategy 2
